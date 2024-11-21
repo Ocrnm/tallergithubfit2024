@@ -1,4 +1,3 @@
 console.log('Hola Mundo');
-var a = 1;
-var b = 2;
-console.log(a + b);
+const nombre = 'Hugo';
+console.log(`Hola ${nombre}`);
